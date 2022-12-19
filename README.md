@@ -1,14 +1,14 @@
 # Clustering_Km_Mall_Customers
 
-##Descripción
+## Descripción
 
 Se analizó un conjunto de datos sobre los clientes de un centro comercial. Datos como: sexo, edad, ingresos, etc. Las observaciones no se encuentran etiquetadas y se les aplicó un modelo de aprendizaje no-supervisado para tratar de separarlos en grupos.
 
-##Obtención de los datos
+## Obtención de los datos
 
 El archivo "Mall_Customer.csv" se descargó de la plataforma Kaggle.
 
-##Resultados
+## Resultados
 
 Se encontraron 5 grupos a los cuales poder categorizar:
 
